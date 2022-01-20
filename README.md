@@ -11,6 +11,7 @@ Then I started developing myself on .net freamwork and mvc.
 I have about 3 years of experience in software development with projects.
 We used technologies such as asp.net core, devexpress, sql, entity framework .
 I am currently developing myself on .Net Core 5.
+---------------
 Some certificates I have received;
 Developing ASP.NET MVC 4 Web Applications -year 2015
 ASP.Net MVC / Sanaya Education Center -year 2017
